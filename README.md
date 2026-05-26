@@ -1,13 +1,9 @@
 # Crystal-Structure-Predictive-Modeling-of-Li-ion-Battery-Cathodes
 Machine learning framework for crystal system prediction of lithium-ion battery materials using ensemble learning, SMOTE-based preprocessing, hyperparameter optimization, and SHAP explainability analysis for interpretable materials informatics and crystal structure classification.
+
 # Crystal System Prediction Using Machine Learning
 Overview
 This repository presents a machine learning framework for predicting crystal system classes of lithium-ion battery materials using ensemble learning and explainable artificial intelligence (XAI) techniques. The workflow integrates data preprocessing, feature engineering, class balancing, hyperparameter optimization, ensemble classification, and SHAP-based interpretability analysis.
-
-# Crystal System Prediction Using Machine Learning
-
-## Overview
-This repository presents a machine learning framework for predicting crystal system classes of lithium-ion battery materials using ensemble learning and SHAP-based explainability analysis.
 
 ## Features
 - Crystal system classification
