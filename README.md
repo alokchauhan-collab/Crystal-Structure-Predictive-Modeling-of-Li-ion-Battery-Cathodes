@@ -45,14 +45,14 @@ The dataset contains lithium-ion battery material descriptors and crystal system
 ├── requirements.txt
 └── README.md
 
-## Reproducibility
+# Reproducibility
 
 The repository includes preprocessing steps, model configurations, optimization settings, and interpretability analysis to facilitate reproducible research.
 
-## Citation
+# Citation
 
 If you use this work in your research, please cite the associated publication.
 
-## License
+# License
 
 This project is intended for academic and research purposes.
